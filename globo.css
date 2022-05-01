@@ -1,0 +1,198 @@
+body {
+    font-family: 'Encode Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-1 {
+    height: 80px;
+}
+
+.logo {
+    width: 171px;
+}
+
+.header-2 {
+    border-style: solid;
+    border-color: #f5f6f7;
+    border-width: 1px 0;
+}
+
+.menus {
+    width: 1250px;
+    height: 40px;
+
+    font-size: 19px;
+    font-weight: 700;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.g1 {
+    color: #C4160C;
+}
+
+.oglobo {
+    color: #1E4B9B;
+}
+
+.valor {
+    color: #006766;
+}
+
+.ge {
+    color: #07AA47;
+}
+
+.cartola {
+    color: #E3662B;
+}
+
+.globoplay {
+    color: #FB0735;
+}
+
+.dropz {
+    color: #FF75BB;
+}
+
+.gshow {
+    color: #EC7D00;
+}
+
+.quem {
+    color: #323333;
+}
+
+.receitas {
+    color: #A81D83;
+}
+
+.conteudo {
+    width: 1250px;
+    
+    margin: 30px auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.coluna-esquerda {
+    width: 650px;
+
+    margin-right: 40px;
+}
+
+.destaque {
+    margin-bottom: 25px;
+}
+
+.materia-principal {
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 120%;
+
+    margin-bottom: 30px;
+}
+
+.materia-secundaria {
+    font-size: 18px;
+    font-weight: 500;
+    color: #303134;
+
+    margin-top: 10px;
+}
+
+.editorial-g1 {    
+    border-style: solid;
+    border-color: #ebedef;
+    border-width: 1px 0 0 0;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.coluna-direita {
+    display: flex;
+}
+
+.editorial {
+    border-style: solid;
+    border-color: #ebedef;
+    border-width: 0px 0px 0px 1px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.editorial-ge {
+    width: 320px;
+    
+    justify-content: center;
+}
+
+.editorial-gshow {
+    width: 280px;
+    
+    justify-content: flex-end;
+}
+
+.chamada-pequena {
+    width: 193px;
+
+    margin: 20px 0;
+}
+
+.chamada-grande {
+    width: 240px;
+
+    margin: 0 0 30px 0;
+}
+
+.img {
+    width: 100%;
+
+    margin-bottom: 10px;
+
+    border-radius: 12px;
+}
+
+.img-pequena {
+    height: 110px;
+}
+
+.img-grande {
+    height: 128px;
+}
+
+.chamada {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.manchete-principal {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2F3134;
+
+    margin-top: 10px;
+}
+
+.manchete-secundaria {
+    font-size: 14px;
+    font-weight: 400;
+    color: #2F3134;
+    
+    margin-top: 15px;
+}
